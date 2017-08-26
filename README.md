@@ -1,2 +1,3 @@
 # debian-oracle-java
-minimal debian image with oracle server jre
+
+Minimal debian image with the current Oracle JAVA Server JRE.
